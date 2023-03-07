@@ -47,7 +47,7 @@ https://eurobyvelo.eu.pythonanywhere.com/
 
 Credentials for live version:
 
-Username: user1
+Username: chrity.user@gmail.com
 
 Password: Testpass123
 
