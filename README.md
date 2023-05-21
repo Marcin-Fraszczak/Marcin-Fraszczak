@@ -22,7 +22,21 @@ Here are some ideas to get you started:
 ### Docker, Flask, Pytest, Selenium, pandas
 
 # Sample Apps:
-1) SaveIT - webapp for tracking personal finances.
+1) ## Full stact web app with FastApi + OAuth + React + MongoDB.
+live version:
+
+https://todoapp-production-c381.up.railway.app/
+
+backend alone with documentation:
+
+https://todoapp-oauth-production.up.railway.app/docs
+
+repo:
+
+https://github.com/Marcin-Fraszczak/ToDoApp-OAuth
+
+---
+2) SaveIT - webapp for tracking personal finances.
 
 Django with JS, 90% coverage with Pytest, live version populated with Selenium, working with MySQL database.
 
@@ -37,7 +51,7 @@ Username: user1
 Password: Testpass123
 
 ---
-2) Charity - webapp for donating to charity
+3) Charity - webapp for donating to charity
 
 Django with JS, 90% coverage with Pytest, working with MySQL database.
 
@@ -52,25 +66,25 @@ Username: chrity.user@gmail.com
 Password: Testpass123
 
 ---
-3) SWAPI - webapp connecting to an open API, fetching data and processing it with pandas library. Data written to csv file, metadata written to MySQL database. 100% coverage with Pytest.
+4) SWAPI - webapp connecting to an open API, fetching data and processing it with pandas library. Data written to csv file, metadata written to MySQL database. 100% coverage with Pytest.
 
 https://github.com/Marcin-Fraszczak/SWAPI-training
 
 https://marcinfraszczak2.eu.pythonanywhere.com/
 
 ---
-4) Wheather App - simple widget for weather forecast. Connecting to an open API. Pure JS.
+5) Wheather App - simple widget for weather forecast. Connecting to an open API. Pure JS.
 
 https://github.com/Marcin-Fraszczak/WeatherApp
 
 ---
-5) Math game - first take on React Components
+6) Math game - first take on React Components
 
 https://github.com/Marcin-Fraszczak/React-Math-Game
 
 ---
 
-6) ToDoApp - React Components (props, state, JSX, events, composition) working with external API
+7) ToDoApp - React Components (props, state, JSX, events, composition) working with external API
 
 https://github.com/Marcin-Fraszczak/ToDoApp
 
