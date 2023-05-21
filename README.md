@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Docker, Flask, Pytest, Selenium, pandas
 
 # Sample Apps:
-1) ## Full stact web app with FastApi + OAuth + React + MongoDB.
+1) ## Full stack web app with FastApi + OAuth + React + MongoDB.
 live version:
 
 https://todoapp-production-c381.up.railway.app/
