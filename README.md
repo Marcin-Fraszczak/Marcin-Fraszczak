@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 # What I use:
 
-## Python, Django, JavaScript, React
-### Docker, Flask, Pytest, Selenium, pandas
+## Python, FastApi, Django, JavaScript, React,
+### Docker, Pytest, Selenium, pandas, MongoDB, MySQL, Postgresql
 
 # Sample Apps:
 1) ## Full stack web app with FastApi + OAuth + React + MongoDB.
