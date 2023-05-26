@@ -35,6 +35,8 @@ repo:
 
 https://github.com/Marcin-Fraszczak/ToDoApp-OAuth
 
+![ScreenShot](/images/tdapp01.jpg)
+
 ---
 2) SaveIT - webapp for tracking personal finances.
 
