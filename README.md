@@ -53,6 +53,9 @@ Username: user1
 
 Password: Testpass123
 
+![saveit01](/images/saveit_start.jpg)
+![saveit02](/images/saveit_dash.jpg)
+
 ---
 3) Charity - webapp for donating to charity
 
@@ -68,12 +71,16 @@ Username: chrity.user@gmail.com
 
 Password: Testpass123
 
+![char01](/images/char_main.jpg)
+
 ---
 4) SWAPI - webapp connecting to an open API, fetching data and processing it with pandas library. Data written to csv file, metadata written to MySQL database. 100% coverage with Pytest.
 
 https://github.com/Marcin-Fraszczak/SWAPI-training
 
 https://marcinfraszczak2.eu.pythonanywhere.com/
+
+![swapi01](/images/SWAPI1.jpg)
 
 ---
 5) Wheather App - simple widget for weather forecast. Connecting to an open API. Pure JS.
